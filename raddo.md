@@ -1,7 +1,3 @@
-layout: page
-title: raddo
-permalink: /raddo/
-
 # [**raddo**:  RADOLAN Weather Radar Data Downloader](https://github.com/tramsauer/raddo)
 
 [![license badge](https://img.shields.io/badge/license-GNU_GPLv3-blue)](LICENSE.txt)
@@ -26,7 +22,7 @@ The freely accessible data may be re-used without any restrictions provided that
 
 The RADOLAN precipitation data files are *updated daily* by DWD.
 
-<img align="right" src="https://github.com/tramsauer/raddo/blob/main/dwd_logo.png" width="200">
+<img align="right" src="https://github.com/tramsauer/raddo/blob/main/dwd_logo.png?raw=true" width="200">
 
 The data can be found at [opendata.dwd.de](https://opendata.dwd.de/climate_environment/CDC/grids_germany/hourly/radolan/recent/asc/ "https://opendata.dwd.de/climate_environment/CDC/grids_germany/hourly/radolan/recent/asc/").
 
